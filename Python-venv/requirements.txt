@@ -1,0 +1,8 @@
+beautifulsoup4
+html5lib
+matplotlib
+mojimoji
+kanjize
+gensim
+spacy == 2.2
+https://github.com/megagonlabs/ginza/releases/download/v2.2.1/ginza-2.2.1.tar.gz
